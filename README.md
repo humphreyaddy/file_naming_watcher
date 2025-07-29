@@ -32,7 +32,7 @@ Run the script to monitor a directory (default: current directory):
 ### File: 2025-07-29_RNAseq_counts_GSE12345.tsv
 Date: 2025-07-29 15:12:03
 Event: Renamed
-Details: Old name: RNA counts (final).txt → New name: 2025-07-29_RNAseq_counts_GSE12345.tsv
+Details: Old name: my Bioniformatics file counts (final).tsv  → 2025-07-29_my_Bioniformatics_file_counts_final.tsv
 ----------------------------------------
 ### File: 2025-07-29_RNAseq_counts_GSE12345.tsv
 Date: 2025-07-29 15:13:10
