@@ -42,7 +42,7 @@ Details: Active editing duration: 42s
 ```
 
 ## Example File
-This repository includes `RNA counts (final).txt` as an example file. Running the script will automatically rename it to follow proper conventions.
+This repository includes `2025-07-29_my_Bioniformatics_file_counts_final.tsv` as an example file. Running the script will automatically rename it to follow proper conventions.
 
 ## License
 MIT License
