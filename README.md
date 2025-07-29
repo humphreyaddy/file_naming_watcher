@@ -1,4 +1,4 @@
-# File Naming Watcher
+# File Names Watcher
 
 This repository provides a Bash script that automatically enforces best practices for file naming (based on Jenny Bryan's "Naming Things" guide) while tracking file edits and renaming history in real time.
 
