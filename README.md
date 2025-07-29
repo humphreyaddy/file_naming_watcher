@@ -32,7 +32,7 @@ Run the script to monitor a directory (default: current directory):
 ### File: 2025-07-29_my_Bioniformatics_file_counts_final.tsv
 Date: 2025-07-29 15:12:03
 Event: Renamed
-Details: Old name: my Bioniformatics file counts (final).tsv  → 2025-07-29_my_Bioniformatics_file_counts_final.tsv
+Details: Old name: my Bioniformatics file counts (final).txt  → 2025-07-29_my_Bioniformatics_file_counts_final.txt
 ----------------------------------------
 ### File: 2025-07-29_RNAseq_counts_GSE12345.tsv
 Date: 2025-07-29 15:13:10
@@ -42,7 +42,7 @@ Details: Active editing duration: 42s
 ```
 
 ## Example File
-This repository includes `2025-07-29_my_Bioniformatics_file_counts_final.tsv` as an example file. Running the script will automatically rename it to follow proper conventions.
+This repository includes `my Bioniformatics file counts (final).txt` as an example file. Running the script will automatically rename it to follow proper conventions.
 
 ## License
 MIT License
