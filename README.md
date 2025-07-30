@@ -5,7 +5,7 @@ This repository provides a Bash script that automatically enforces best practice
 ## Features
 - Automatic renaming of files to follow **machine-readable**, **human-readable**, and **sortable** conventions.
 - Real-time monitoring of directories for new files or edits.
-- Centralized log (`file_mod_log.txt`) tracking renames, timestamps, and edit durations.
+- Centralised log (`file_mod_log.txt`) tracking renames, timestamps, and edit durations.
 - ISO 8601 date prefixes for consistent sorting.
 - Ready to use for **bioinformatics workflows**, pipelines, or collaborative coding.
 
